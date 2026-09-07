@@ -5,13 +5,13 @@ about:
   head: 499a4e5
   archived: false
   latestVersion: "v0.8.0"
-  collectedAt: 2026-09-07T06:03:10Z
+  collectedAt: 2026-09-07T18:25:55Z
 timeline:
   created: 2025-03-29
   lastCommit: 2026-07-03
   lastRelease: 2026-04-21
 popularity:
-  star: 3314
+  star: 3313
   watcher: 15
   fork: 62
   release: 9
@@ -80,7 +80,7 @@ total:
   commit: 256
 ---
 path: /home/runner/.x-repo/github.com/bahdotsh/wrkflw
-collectedAt: 2026-09-07T06:03:14Z
+collectedAt: 2026-09-07T18:25:57Z
 loc:
   Rust:
     code: 39279
@@ -121,7 +121,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:03:16+00:00
+  collectedAt: 2026-09-07T18:25:58+00:00
   platform:
     darwin/arm64:
       name:  wrkflw-aarch64-apple-darwin.tar.gz
