@@ -1,0 +1,102 @@
+- repo: aur
+  srcname: wrkflw-bin
+  binname: wrkflw-bin
+  visiblename: wrkflw-bin
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: Validate and execute GitHub Actions workflows locally
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: wrkflw
+  binname: wrkflw
+  visiblename: wrkflw
+  version: 0.8.0
+  origversion: 0.8.0-1
+  status: newest
+  summary: validate and execute GitHub Actions workflows locally
+  maintainers:
+    - alerque@aur
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: wrkflw-git
+  binname: wrkflw-git
+  visiblename: wrkflw-git
+  version: 0.8.0.r3.g2f2892b
+  origversion: 0.8.0.r3.g2f2892b-1
+  status: rolling
+  summary: Validate and Run GitHub Actions locally.
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: wrkflw
+  visiblename: wrkflw
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Validate and execute GitHub Actions workflows locally
+- repo: homebrew
+  srcname: wrkflw
+  visiblename: wrkflw
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Validate and execute GitHub Actions workflows locally
+- repo: nix_stable_25_05
+  srcname: wrkflw
+  visiblename: wrkflw
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Validate and execute GitHub Actions workflows locally
+  maintainers:
+    - awwpotato@voidq.com
+    - frandres00@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: wrkflw
+  visiblename: wrkflw
+  version: 0.7.3
+  origversion: null
+  status: outdated
+  summary: Validate and execute GitHub Actions workflows locally
+  maintainers:
+    - da157@voidq.com
+    - frandres00@gmail.com
+    - tebriel@frodux.in
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: wrkflw
+  visiblename: wrkflw
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Validate and execute GitHub Actions workflows locally
+  maintainers:
+    - da157@voidq.com
+    - frandres00@gmail.com
+    - tebriel@frodux.in
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: wrkflw
+  visiblename: wrkflw
+  version: 0.8.0
+  origversion: null
+  status: newest
+  summary: Validate and execute GitHub Actions workflows locally
+  maintainers:
+    - da157@voidq.com
+    - frandres00@gmail.com
+    - tebriel@frodux.in
+  licenses:
+    - MIT
