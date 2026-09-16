@@ -48,12 +48,12 @@ Total: **51,979** lines of code across **178** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 3 | 1 | 0 | 1 | 3 |
-| last60d | 2026-07-17 | 0 | 3 | 3 | 0 | 3 | 3 |
-| 90d | 2026-06-17 | 0 | 3 | 3 | 0 | 4 | 4 |
-| last180d | 2026-03-19 | 1 | 43 | 3 | 1 | 9 | 66 |
-| 360d | 2025-09-20 | 1 | 44 | 3 | 3 | 10 | 67 |
-| last720d | 2024-09-25 | 9 | 72 | 3 | 40 | 10 | 259 |
+| 30d | 2026-08-17 | 0 | 3 | 1 | 0 | 1 | 3 |
+| last60d | 2026-07-18 | 0 | 3 | 3 | 0 | 3 | 3 |
+| 90d | 2026-06-18 | 0 | 3 | 3 | 0 | 4 | 4 |
+| last180d | 2026-03-20 | 1 | 43 | 3 | 1 | 9 | 66 |
+| 360d | 2025-09-21 | 1 | 44 | 3 | 3 | 10 | 67 |
+| last720d | 2024-09-26 | 9 | 72 | 3 | 40 | 10 | 259 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:48:39Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:31:34Z._
