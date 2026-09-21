@@ -38,22 +38,22 @@ Total: **51,979** lines of code across **178** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,319 · **Forks**: 62 · **Open issues**: 50 · **Contributors**: 8
+- **Stars**: 3,319 · **Forks**: 63 · **Open issues**: 50 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 72 · **Open PRs**: 3 · **Closed issues**: 40 · **Open issues**: 10 · **Commits**: 259
+- **Releases**: 9 · **Merged PRs**: 72 · **Open PRs**: 4 · **Closed issues**: 40 · **Open issues**: 10 · **Commits**: 259
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 3 | 1 | 0 | 1 | 3 |
-| last60d | 2026-07-22 | 0 | 3 | 3 | 0 | 3 | 3 |
-| 90d | 2026-06-22 | 0 | 3 | 3 | 0 | 3 | 4 |
-| last180d | 2026-03-24 | 1 | 43 | 3 | 1 | 9 | 56 |
-| 360d | 2025-09-25 | 1 | 44 | 3 | 3 | 10 | 67 |
-| last720d | 2024-09-30 | 9 | 72 | 3 | 40 | 10 | 259 |
+| 30d | 2026-08-22 | 0 | 3 | 2 | 0 | 1 | 3 |
+| last60d | 2026-07-23 | 0 | 3 | 4 | 0 | 3 | 3 |
+| 90d | 2026-06-23 | 0 | 3 | 4 | 0 | 3 | 4 |
+| last180d | 2026-03-25 | 1 | 43 | 4 | 1 | 9 | 56 |
+| 360d | 2025-09-26 | 1 | 44 | 4 | 3 | 10 | 67 |
+| last720d | 2024-10-01 | 9 | 72 | 4 | 40 | 10 | 259 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:24:08Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:22:03Z._
