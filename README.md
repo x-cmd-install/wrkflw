@@ -48,12 +48,12 @@ Total: **51,979** lines of code across **178** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 3 | 2 | 0 | 2 | 3 |
-| 90d | 2026-07-24 | 0 | 3 | 4 | 0 | 4 | 3 |
-| last180d | 2026-04-25 | 0 | 8 | 4 | 0 | 10 | 8 |
-| 360d | 2025-10-27 | 1 | 44 | 4 | 3 | 11 | 67 |
-| last720d | 2024-11-01 | 9 | 72 | 4 | 40 | 11 | 259 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 3 | 2 | 0 | 2 | 3 |
+| 90d | 2026-07-25 | 0 | 3 | 4 | 0 | 4 | 3 |
+| last180d | 2026-04-26 | 0 | 8 | 4 | 0 | 10 | 8 |
+| 360d | 2025-10-28 | 1 | 44 | 4 | 3 | 11 | 67 |
+| last720d | 2024-11-02 | 9 | 72 | 4 | 40 | 11 | 259 |
 
 ## Release assets
 
@@ -66,6 +66,15 @@ Total: **51,979** lines of code across **178** files in the top 5 languages.
 | [wrkflw-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/x64/glibc` |
 | [wrkflw-x86_64-unknown-linux-musl.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-unknown-linux-musl.tar.gz) | 5.5 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/wrkflw). **5** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.8.0` | ✅ latest |
+| Nix unstable | `0.8.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wrkflw` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +84,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:51:18Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:57:25Z._
