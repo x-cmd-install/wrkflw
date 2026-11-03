@@ -14,15 +14,15 @@ x install wrkflw
 
 ## Code insight
 
-Total: **69,651** lines of code across **202** files in the top 5 languages.
+Total: **71,281** lines of code across **204** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 57,199 | 5,767 | 6,428 | 136 |
+| Rust | 58,820 | 5,795 | 6,566 | 138 |
 | Json | 9,456 | 0 | 0 | 4 |
 | Yaml | 1,719 | 121 | 256 | 38 |
 | Sh | 656 | 61 | 109 | 5 |
-| Toml | 621 | 46 | 58 | 19 |
+| Toml | 630 | 46 | 58 | 19 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **69,651** lines of code across **202** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,338 · **Forks**: 63 · **Open issues**: 51 · **Contributors**: 10
+- **Stars**: 3,339 · **Forks**: 63 · **Open issues**: 51 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 95 · **Open PRs**: 0 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 282
+- **Releases**: 9 · **Merged PRs**: 98 · **Open PRs**: 1 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 285
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 20 | 0 | 1 | 0 | 23 |
-| last60d | 2026-09-03 | 0 | 23 | 0 | 1 | 0 | 23 |
-| 90d | 2026-08-04 | 0 | 26 | 0 | 4 | 0 | 26 |
-| last180d | 2026-05-06 | 0 | 31 | 0 | 7 | 0 | 31 |
-| 360d | 2025-11-07 | 1 | 67 | 0 | 14 | 0 | 90 |
-| last720d | 2024-11-12 | 9 | 95 | 0 | 51 | 0 | 282 |
+| 30d | 2026-10-04 | 0 | 23 | 1 | 1 | 0 | 26 |
+| last60d | 2026-09-04 | 0 | 26 | 1 | 1 | 0 | 26 |
+| 90d | 2026-08-05 | 0 | 29 | 1 | 4 | 0 | 29 |
+| last180d | 2026-05-07 | 0 | 34 | 1 | 7 | 0 | 34 |
+| 360d | 2025-11-08 | 1 | 70 | 1 | 14 | 0 | 93 |
+| last720d | 2024-11-13 | 9 | 98 | 1 | 51 | 0 | 285 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:39:49Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:15:48Z._
