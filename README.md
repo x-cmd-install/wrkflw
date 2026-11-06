@@ -14,15 +14,15 @@ x install wrkflw
 
 ## Code insight
 
-Total: **78,651** lines of code across **217** files in the top 5 languages.
+Total: **82,783** lines of code across **225** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 66,185 | 6,417 | 7,027 | 151 |
+| Rust | 70,297 | 6,634 | 7,318 | 159 |
 | Json | 9,456 | 0 | 0 | 4 |
 | Yaml | 1,719 | 121 | 256 | 38 |
 | Sh | 656 | 61 | 109 | 5 |
-| Toml | 635 | 48 | 58 | 19 |
+| Toml | 655 | 49 | 59 | 19 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **78,651** lines of code across **217** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.0` (2026-04-21)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-06
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 3,339 · **Forks**: 63 · **Open issues**: 51 · **Contributors**: 10
+- **Stars**: 3,340 · **Forks**: 63 · **Open issues**: 51 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 105 · **Open PRs**: 1 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 292
+- **Releases**: 9 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 29 | 1 | 1 | 0 | 33 |
-| last60d | 2026-09-06 | 0 | 32 | 1 | 1 | 0 | 33 |
-| 90d | 2026-08-07 | 0 | 35 | 1 | 4 | 0 | 36 |
-| last180d | 2026-05-09 | 0 | 40 | 1 | 7 | 0 | 41 |
-| 360d | 2025-11-10 | 1 | 76 | 1 | 14 | 0 | 100 |
-| last720d | 2024-11-15 | 9 | 104 | 1 | 51 | 0 | 292 |
+| 30d | 2026-10-07 | 0 | 30 | 0 | 1 | 0 | 34 |
+| last60d | 2026-09-07 | 0 | 33 | 0 | 1 | 0 | 34 |
+| 90d | 2026-08-08 | 0 | 36 | 0 | 4 | 0 | 37 |
+| last180d | 2026-05-10 | 0 | 41 | 0 | 7 | 0 | 42 |
+| 360d | 2025-11-11 | 1 | 77 | 0 | 14 | 0 | 101 |
+| last720d | 2024-11-16 | 9 | 105 | 0 | 51 | 0 | 293 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:12:31Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:57:38Z._
