@@ -14,11 +14,11 @@ x install wrkflw
 
 ## Code insight
 
-Total: **82,783** lines of code across **225** files in the top 5 languages.
+Total: **85,390** lines of code across **226** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 70,297 | 6,634 | 7,318 | 159 |
+| Rust | 72,904 | 6,711 | 7,404 | 160 |
 | Json | 9,456 | 0 | 0 | 4 |
 | Yaml | 1,719 | 121 | 256 | 38 |
 | Sh | 656 | 61 | 109 | 5 |
@@ -42,18 +42,18 @@ Total: **82,783** lines of code across **225** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 293
+- **Releases**: 9 · **Merged PRs**: 108 · **Open PRs**: 0 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 295
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 30 | 0 | 1 | 0 | 34 |
-| last60d | 2026-09-07 | 0 | 33 | 0 | 1 | 0 | 34 |
-| 90d | 2026-08-08 | 0 | 36 | 0 | 4 | 0 | 37 |
-| last180d | 2026-05-10 | 0 | 41 | 0 | 7 | 0 | 42 |
-| 360d | 2025-11-11 | 1 | 77 | 0 | 14 | 0 | 101 |
-| last720d | 2024-11-16 | 9 | 105 | 0 | 51 | 0 | 293 |
+| 30d | 2026-10-08 | 0 | 32 | 0 | 1 | 0 | 36 |
+| last60d | 2026-09-08 | 0 | 32 | 0 | 1 | 0 | 36 |
+| 90d | 2026-08-09 | 0 | 36 | 0 | 2 | 0 | 39 |
+| last180d | 2026-05-11 | 0 | 43 | 0 | 7 | 0 | 44 |
+| 360d | 2025-11-12 | 1 | 79 | 0 | 14 | 0 | 103 |
+| last720d | 2024-11-17 | 9 | 107 | 0 | 51 | 0 | 295 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:57:38Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:17:02Z._
