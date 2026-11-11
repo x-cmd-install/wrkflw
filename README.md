@@ -38,7 +38,7 @@ Total: **88,469** lines of code across **230** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,339 · **Forks**: 63 · **Open issues**: 51 · **Contributors**: 10
+- **Stars**: 3,340 · **Forks**: 63 · **Open issues**: 51 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **88,469** lines of code across **230** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 33 | 1 | 0 | 0 | 37 |
-| last60d | 2026-09-11 | 0 | 33 | 1 | 1 | 0 | 37 |
-| 90d | 2026-08-12 | 0 | 37 | 1 | 2 | 0 | 40 |
-| last180d | 2026-05-14 | 0 | 44 | 1 | 7 | 0 | 45 |
-| 360d | 2025-11-15 | 1 | 80 | 1 | 13 | 0 | 104 |
-| last720d | 2024-11-20 | 9 | 108 | 1 | 51 | 0 | 296 |
+| 30d | 2026-10-12 | 0 | 33 | 1 | 0 | 0 | 37 |
+| last60d | 2026-09-12 | 0 | 33 | 1 | 1 | 0 | 37 |
+| 90d | 2026-08-13 | 0 | 37 | 1 | 2 | 0 | 40 |
+| last180d | 2026-05-15 | 0 | 44 | 1 | 7 | 0 | 45 |
+| 360d | 2025-11-16 | 1 | 80 | 1 | 13 | 0 | 104 |
+| last720d | 2024-11-21 | 9 | 108 | 1 | 51 | 0 | 296 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:55:30Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:19:22Z._
