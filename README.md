@@ -14,15 +14,15 @@ x install wrkflw
 
 ## Code insight
 
-Total: **106,378** lines of code across **243** files in the top 5 languages.
+Total: **107,863** lines of code across **248** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 93,640 | 8,241 | 8,676 | 175 |
+| Rust | 95,030 | 8,272 | 8,783 | 177 |
 | Json | 9,498 | 0 | 0 | 4 |
 | Yaml | 1,719 | 121 | 256 | 38 |
-| Sh | 852 | 121 | 129 | 7 |
-| Toml | 660 | 49 | 60 | 19 |
+| Sh | 939 | 152 | 141 | 10 |
+| Toml | 668 | 51 | 63 | 19 |
 
 ## Source
 
@@ -42,18 +42,18 @@ Total: **106,378** lines of code across **243** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 117 · **Open PRs**: 1 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 304
+- **Releases**: 9 · **Merged PRs**: 118 · **Open PRs**: 1 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 305
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 41 | 1 | 0 | 0 | 45 |
-| last60d | 2026-09-21 | 0 | 41 | 1 | 1 | 0 | 45 |
-| 90d | 2026-08-22 | 0 | 45 | 1 | 2 | 0 | 48 |
-| last180d | 2026-05-24 | 0 | 49 | 1 | 6 | 0 | 53 |
-| 360d | 2025-11-25 | 1 | 88 | 1 | 13 | 0 | 112 |
-| last720d | 2024-11-30 | 9 | 116 | 1 | 51 | 0 | 304 |
+| 30d | 2026-10-22 | 0 | 42 | 1 | 0 | 0 | 46 |
+| last60d | 2026-09-22 | 0 | 42 | 1 | 1 | 0 | 46 |
+| 90d | 2026-08-23 | 0 | 46 | 1 | 2 | 0 | 49 |
+| last180d | 2026-05-25 | 0 | 50 | 1 | 6 | 0 | 54 |
+| 360d | 2025-11-26 | 1 | 89 | 1 | 13 | 0 | 113 |
+| last720d | 2024-12-01 | 9 | 117 | 1 | 51 | 0 | 305 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:46:52Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:30:28Z._
