@@ -32,39 +32,40 @@ Total: **108,972** lines of code across **248** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.8.0` (2026-04-21)
+- **Latest**: `v0.9.0` (2026-11-26)
 - **Last commit**: 2026-11-26
-- **Assets in release**: 6
+- **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 3,349 · **Forks**: 64 · **Open issues**: 51 · **Contributors**: 10
+- **Stars**: 3,351 · **Forks**: 64 · **Open issues**: 51 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 119 · **Open PRs**: 0 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 306
+- **Releases**: 11 · **Merged PRs**: 119 · **Open PRs**: 0 · **Closed issues**: 51 · **Open issues**: 0 · **Commits**: 306
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 43 | 0 | 0 | 0 | 47 |
-| last60d | 2026-09-27 | 0 | 43 | 0 | 1 | 0 | 47 |
-| 90d | 2026-08-28 | 0 | 46 | 0 | 1 | 0 | 50 |
-| last180d | 2026-05-30 | 0 | 51 | 0 | 5 | 0 | 55 |
-| 360d | 2025-12-01 | 1 | 90 | 0 | 13 | 0 | 114 |
-| last720d | 2024-12-06 | 9 | 118 | 0 | 51 | 0 | 306 |
+| 30d | 2026-10-28 | 2 | 43 | 0 | 0 | 0 | 47 |
+| last60d | 2026-09-28 | 2 | 43 | 0 | 1 | 0 | 47 |
+| 90d | 2026-08-29 | 2 | 46 | 0 | 1 | 0 | 50 |
+| last180d | 2026-05-31 | 2 | 50 | 0 | 5 | 0 | 55 |
+| 360d | 2025-12-02 | 3 | 90 | 0 | 13 | 0 | 114 |
+| last720d | 2024-12-07 | 11 | 118 | 0 | 51 | 0 | 306 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wrkflw-aarch64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [wrkflw-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-aarch64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/arm64/glibc` |
-| [wrkflw-x86_64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/x64` |
-| [wrkflw-x86_64-pc-windows-msvc.zip](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-pc-windows-msvc.zip) | 5.2 MiB | `native/win/x64` |
-| [wrkflw-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/x64/glibc` |
-| [wrkflw-x86_64-unknown-linux-musl.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-unknown-linux-musl.tar.gz) | 5.5 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/SHA256SUMS) | 618 B | `other` |
+| [wrkflw-aarch64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-aarch64-apple-darwin.tar.gz) | 7.1 MiB | `native/darwin/arm64` |
+| [wrkflw-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-aarch64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [wrkflw-x86_64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-apple-darwin.tar.gz) | 7.6 MiB | `native/darwin/x64` |
+| [wrkflw-x86_64-pc-windows-msvc.zip](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-pc-windows-msvc.zip) | 8.1 MiB | `native/win/x64` |
+| [wrkflw-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-unknown-linux-gnu.tar.gz) | 7.8 MiB | `native/linux/x64/glibc` |
+| [wrkflw-x86_64-unknown-linux-musl.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -75,4 +76,4 @@ Install metadata for wrkflw lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:16:36Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:26:32Z._

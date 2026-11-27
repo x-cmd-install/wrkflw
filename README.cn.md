@@ -32,39 +32,40 @@ x install wrkflw
 
 ## 发布
 
-- **最新版本**: `v0.8.0` (2026-04-21)
+- **最新版本**: `v0.9.0` (2026-11-26)
 - **最近提交**: 2026-11-26
-- **Release 含资产**: 6 个
+- **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 3,349 · **Fork**: 64 · **开放 issue**: 51 · **贡献者**: 10
+- **Star**: 3,351 · **Fork**: 64 · **开放 issue**: 51 · **贡献者**: 10
 
 ## 累计统计
 
-- **发布数**: 9 · **已合并 PR**: 119 · **开放 PR**: 0 · **已关闭 issue**: 51 · **开放 issue**: 0 · **提交数**: 306
+- **发布数**: 11 · **已合并 PR**: 119 · **开放 PR**: 0 · **已关闭 issue**: 51 · **开放 issue**: 0 · **提交数**: 306
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 43 | 0 | 0 | 0 | 47 |
-| last60d | 2026-09-27 | 0 | 43 | 0 | 1 | 0 | 47 |
-| 90d | 2026-08-28 | 0 | 46 | 0 | 1 | 0 | 50 |
-| last180d | 2026-05-30 | 0 | 51 | 0 | 5 | 0 | 55 |
-| 360d | 2025-12-01 | 1 | 90 | 0 | 13 | 0 | 114 |
-| last720d | 2024-12-06 | 9 | 118 | 0 | 51 | 0 | 306 |
+| 30d | 2026-10-28 | 2 | 43 | 0 | 0 | 0 | 47 |
+| last60d | 2026-09-28 | 2 | 43 | 0 | 1 | 0 | 47 |
+| 90d | 2026-08-29 | 2 | 46 | 0 | 1 | 0 | 50 |
+| last180d | 2026-05-31 | 2 | 50 | 0 | 5 | 0 | 55 |
+| 360d | 2025-12-02 | 3 | 90 | 0 | 13 | 0 | 114 |
+| last720d | 2024-12-07 | 11 | 118 | 0 | 51 | 0 | 306 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wrkflw-aarch64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [wrkflw-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-aarch64-unknown-linux-gnu.tar.gz) | 5.2 MiB | `native/linux/arm64/glibc` |
-| [wrkflw-x86_64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/x64` |
-| [wrkflw-x86_64-pc-windows-msvc.zip](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-pc-windows-msvc.zip) | 5.2 MiB | `native/win/x64` |
-| [wrkflw-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/x64/glibc` |
-| [wrkflw-x86_64-unknown-linux-musl.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.8.0/wrkflw-x86_64-unknown-linux-musl.tar.gz) | 5.5 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/SHA256SUMS) | 618 B | `other` |
+| [wrkflw-aarch64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-aarch64-apple-darwin.tar.gz) | 7.1 MiB | `native/darwin/arm64` |
+| [wrkflw-aarch64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-aarch64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [wrkflw-x86_64-apple-darwin.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-apple-darwin.tar.gz) | 7.6 MiB | `native/darwin/x64` |
+| [wrkflw-x86_64-pc-windows-msvc.zip](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-pc-windows-msvc.zip) | 8.1 MiB | `native/win/x64` |
+| [wrkflw-x86_64-unknown-linux-gnu.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-unknown-linux-gnu.tar.gz) | 7.8 MiB | `native/linux/x64/glibc` |
+| [wrkflw-x86_64-unknown-linux-musl.tar.gz](https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-unknown-linux-musl.tar.gz) | 7.9 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -75,4 +76,4 @@ wrkflw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T10:16:38Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:26:33Z._
