@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7426691,
       "digest": "sha256:5da78547129b88802728c2871998b3a3ec6224de03fbfc4825e8cecfdc9584e7",
-      "download_count": 13,
+      "download_count": 18,
       "created_at": "2026-11-26T10:46:04Z",
       "updated_at": "2026-11-26T10:46:05Z",
       "browser_download_url": "https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7772161,
       "digest": "sha256:d7f71f5ba3a711d2cfad1a42dc5d24465f093fea6b17b6d1b03390ce5199f47e",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-26T10:46:04Z",
       "updated_at": "2026-11-26T10:46:05Z",
       "browser_download_url": "https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7977041,
       "digest": "sha256:4b5df771a3175c2c53d5ffc3f71e4cfe13fba630946f03a9f7d78be104a72d74",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-26T10:46:04Z",
       "updated_at": "2026-11-26T10:46:05Z",
       "browser_download_url": "https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8505246,
       "digest": "sha256:fcbee8ceba293a85a3d0e7adedc40705bce4b784a614bdedd247fa3ed06c682f",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-11-26T10:46:04Z",
       "updated_at": "2026-11-26T10:46:05Z",
       "browser_download_url": "https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8219571,
       "digest": "sha256:f96fa5a4dead76eb416a22c939a552f7ef63ed89c799342a8029f36d4c5426c9",
-      "download_count": 15,
+      "download_count": 36,
       "created_at": "2026-11-26T10:46:04Z",
       "updated_at": "2026-11-26T10:46:05Z",
       "browser_download_url": "https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8298907,
       "digest": "sha256:dd7b9d893bea332ace1d262a115c77dadfdb12b9aa7bdeb571f408bb5ee6815e",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-26T10:46:04Z",
       "updated_at": "2026-11-26T10:46:05Z",
       "browser_download_url": "https://github.com/bahdotsh/wrkflw/releases/download/v0.9.0/wrkflw-x86_64-unknown-linux-musl.tar.gz"
